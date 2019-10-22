@@ -1,0 +1,23 @@
+{
+  "name": "tdg-version-automation-release-it",
+  "version": "1.0.0",
+  "description": "Testing release-it! for version automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thatdevguy-clee/tdg-version-automation-release-it.git"
+  },
+  "author": "Christopher Lee (That Dev Guy)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thatdevguy-clee/tdg-version-automation-release-it/issues"
+  },
+  "homepage": "https://github.com/thatdevguy-clee/tdg-version-automation-release-it#readme",
+  "devDependencies": {
+    "release-it": "^12.4.3"
+  }
+}
